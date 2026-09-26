@@ -58,6 +58,11 @@ Visualize the autocorrelation function and PSD.
 ## Output
 <img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/50cafc8b-d6bc-45d5-ad44-60e015f53600" />
 
+## MARK SPLIT UP 
+
+<img width="1280" height="915" alt="image" src="https://github.com/user-attachments/assets/43ef0de0-355b-42bd-895b-b1b862251146" />
+
+
 
 ## Result
 Thus the autocorrelation and PSD are executed in Scilab and output is verified.
