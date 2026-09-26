@@ -65,4 +65,4 @@ Visualize the autocorrelation function and PSD.
 
 
 ## Result
-Thus the autocorrelation and PSD are executed in Scilab and output is verified.
+<img width="1280" height="626" alt="image" src="https://github.com/user-attachments/assets/e46b7dc5-45fc-436c-8f3a-551b3396fc05" />
